@@ -88,6 +88,8 @@ header {
   text-align: center;
 }
 
+/* mid-container-text */
+
 .container-2 {
   display: inline-flex;
   width: 90rem;
@@ -97,8 +99,47 @@ header {
   align-items: center;
 }
 
-.mid-page-text {
+/* figure images */
 
+.container-3 {
+  display: inline-flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 915px;
+  height: 400px;
+  flex-wrap: wrap;
+  margin-top: -100px;
+}
 
+.figure-images {
+  display: inline-flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: -80px;
 
+}
+
+.box-1-img {
+  background-image: url("C:/Users/canma/OneDrive/Documents/Tea Cozy/resources/images/img-berryblitz.jpg");
+  display: inline-flex;
+  background-size: contain;
+  width: 300px;
+  height: 200px;
+}
+
+.box-1-text {
+  text-align: center;
+}
+
+.box-2-img {
+  background-image: url("C:/Users/canma/OneDrive/Documents/Tea Cozy/resources/images/img-bedford-bizarre.jpg");
+  display: inline-flex;
+  background-size: contain;
+  width: 300px;
+  height: 200px;
+  margin-left: 35px;
+}
+
+.box-2-text {
+  text-align: center;
 }
