@@ -63,7 +63,7 @@ header {
 
 .container-img {
   display: flex;
-  background-image: url("C:/Users/canma/OneDrive/Documents/Tea Cozy/resources/images/img-mission-background.jpg");
+  background-image: url("../images/img-mission-background.jpg");
   width: 1300px;
   height: 700px;
   background-size: cover;
@@ -120,7 +120,7 @@ header {
 }
 
 .box-1-img {
-  background-image: url("C:/Users/canma/OneDrive/Documents/Tea Cozy/resources/images/img-berryblitz.jpg");
+  background-image: url("../images/img-berryblitz.jpg");
   display: inline-flex;
   background-size: contain;
   width: 300px;
@@ -132,7 +132,7 @@ header {
 }
 
 .box-2-img {
-  background-image: url("C:/Users/canma/OneDrive/Documents/Tea Cozy/resources/images/img-bedford-bizarre.jpg");
+  background-image: url("../images/img-bedford-bizarre.jpg");
   display: inline-flex;
   background-size: contain;
   width: 300px;
