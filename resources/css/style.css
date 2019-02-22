@@ -223,8 +223,8 @@ header {
   width: 300px;
   height: 275px;
   align-items: center;
-  margin-left: 40px;
-  margin-top: 100px;
+  margin-left: 90px;
+  margin-top: 120px;
 }
 
 
@@ -251,3 +251,19 @@ header {
   align-items: center;
   padding: 15px;
 }
+
+.oakdale {
+  display: inline-block;
+  background-color: black;
+  width: 300px;
+  height: 275px;
+  align-items: center;
+  margin-left: 40px;
+  margin-top: 100px;
+}
+
+.oakdale span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
