@@ -291,3 +291,8 @@ h5 {
 }
 
 /* footer */
+
+.footer {
+  margin-left: 20px;
+  float: left;
+}
