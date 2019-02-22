@@ -194,3 +194,60 @@ header {
 .box-5-text {
   text-align: center;
 }
+
+/* Locations container */
+
+.locations {
+  display: flex;
+
+  width: 1200px;
+  height: 500px;
+  justify-content: center;
+  margin-left: 8rem;
+}
+
+
+.locations-img {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
+  background-size: cover;
+  width: 1200px;
+  height: 500px;
+  margin-top: -20rem;
+}
+
+
+
+.downtown {
+  display: inline-block;
+  background-color: black;
+  width: 300px;
+  height: 275px;
+  align-items: center;
+  margin-left: 40px;
+  margin-top: 100px;
+}
+
+
+.downtown span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.east-bayside {
+  display: inline-block;
+  background-color: black;
+  width: 300px;
+  height: 275px;
+  align-items: center;
+  margin-left: 40px;
+  margin-top: 100px;
+}
+
+.east-bayside span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
