@@ -217,6 +217,8 @@ header {
 
 
 
+
+
 .downtown {
   display: inline-block;
   background-color: black;
@@ -267,3 +269,25 @@ header {
   justify-content: center;
   align-items: center;
   padding: 15px;
+}
+
+/* bottom-container */
+
+.bottom-container {
+  display: flex;
+  width: 1200px;
+  height: 300px;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 8rem;
+  margin-top: -20rem;
+  padding: 15px;
+}
+
+.bottom
+h2,
+h5 {
+  padding: 15px;
+}
+
+/* footer */
