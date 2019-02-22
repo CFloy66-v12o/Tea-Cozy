@@ -165,8 +165,16 @@ header {
 
 }
 
-.box-4-text {
+.box-4-img {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-myrtle-ave.jpg");
+  width: 300px;
+  height: 200px;
+  background-size: contain;
+  margin-top: 4rem;
+}
 
+.box-4-text {
+  text-align: center;
 }
 
 .box-5 {
