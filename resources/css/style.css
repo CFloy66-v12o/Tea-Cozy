@@ -106,8 +106,8 @@ header {
   display: inline-flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  width: 915px;
-  height: 400px;
+  width: 1200px;
+  height: 900px;
   flex-wrap: wrap;
   margin-top: -100px;
 }
