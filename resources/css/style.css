@@ -70,7 +70,7 @@ header {
   background-size: cover;
   justify-content: center;
   align-items: center;
-  margin-left: 100px;
+  margin-left: 10rem;
   margin-top: 80px;
 }
 
@@ -95,7 +95,7 @@ header {
   display: inline-flex;
   width: 90rem;
   height: 500px;
-  margin-top: -30px;
+  margin-top: -5rem;
   justify-content: center;
   align-items: center;
 }
