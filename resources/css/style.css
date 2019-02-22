@@ -54,12 +54,13 @@ header {
 /* main content */
 
 .container {
-  display: flex;
+  display: inline-flex;
   width: 1300px;
   height: 700px;
   justify-content: flex-end;
   align-items: center;
 }
+
 
 .container-img {
   display: flex;
@@ -116,7 +117,8 @@ header {
   justify-content: space-around;
   flex-wrap: wrap;
   margin-top: -80px;
-
+  width: 1200px;
+  height: 350px;
 }
 
 .box-1-img {
@@ -142,4 +144,34 @@ header {
 
 .box-2-text {
   text-align: center;
+}
+
+
+
+.box-3-img {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-donut.jpg");
+  display: inline-flex;
+  width: 300px;
+  height: 200px;
+  background-size: contain;
+}
+
+.box-3-text {
+  align-items: center;
+}
+
+.box-4 {
+
+}
+
+.box-4-text {
+
+}
+
+.box-5 {
+
+}
+
+.box-5-text {
+
 }
